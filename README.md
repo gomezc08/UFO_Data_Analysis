@@ -2,6 +2,7 @@
 Chris' Questions:
 1. Is there a correlation between sightings for each UFO shape and when it was reported?
 2. Is there a correlation between the time of a UFO sighting with the season it occured?
+- Above and Beyond: further showcased this correlation using classification and clustering with sklearn
 
 Colby's Questions:
 1. Something involving latitutde and longitude i think?
