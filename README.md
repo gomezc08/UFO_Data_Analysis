@@ -1,7 +1,7 @@
 # UFO_Data_Analysis
 Chris' Questions:
-1. Is there a correlation between the time of a UFO sighting and its location, with the season it occured?
-2. Are more UFO sightings at night or during the day?
+1. Is there a correlation between sightings for each UFO shape and when it was reported?
+2. Is there a correlation between the time of a UFO sighting with the season it occured?
 
 Colby's Questions:
 1. Something involving latitutde and longitude i think?
