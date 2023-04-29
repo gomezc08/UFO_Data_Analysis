@@ -69,8 +69,7 @@ df["Month"] = df["Date"].dt.month
 df["Day"] = df["Date"].dt.day
 df["Hour"] = df["Date"].dt.hour
 df["Minute"] = df["Date"].dt.minute
-df.drop("Date", axis=1, inplace=True)
 df.dropna(inplace=True)
 
 # turn it into a csv file
-df.to_csv('ufo_data.csv', index=False)
+df.to_csv('ufo_data2.csv', index=False)
