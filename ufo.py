@@ -74,12 +74,3 @@ df.dropna(inplace=True)
 
 # turn it into a csv file
 df.to_csv('ufo_data.csv', index=False)
-"""
-QUESTIONS WE CAN ANSWER ABOUT OUR DATASET...
-1. What state/city (location) has the most ufo sightings?
-2. I think looking at times would be interesting. Are more UFO sightings at night or during the day?
-- My thought to 2 would be more UFO sightings would be at night
-3. What is the typical shape of a UFO?
-4. Is there a correlation between the time of year and number of UFO sightings counted?
-- I will probably do a clustering on question 4 (we will get data on seasons and frequency).
-"""
