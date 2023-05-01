@@ -1,8 +1,8 @@
 # UFO_Data_Analysis
 Chris' Questions:
-1. Is there a correlation between sightings for each UFO shape and when it was reported?
-2. Is there a correlation between the time of a UFO sighting with the season it occured?
-- Above and Beyond: further showcased this correlation using classification and clustering with sklearn
+1. Is there a correlation between UFO shape and the time of day of the sighting?
+2. Does there exists any sort of relationship between time and UFO sightings?
+- Above and Beyond: further showcased these correlations using classification with sklearn. I used a few classifiers to discover whether there is any relationship between the location of the sight, the shape of the UFO, the season it occured with the time of day of the report (morning, afternoon, evening, night). 
 
 Colby's Questions:
 1. Something involving latitutde and longitude i think?
