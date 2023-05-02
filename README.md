@@ -7,8 +7,4 @@ Chris' Questions:
 
 Colby's Questions:
 1. Something involving latitutde and longitude i think?
-2. Question 2
-
-Other Potential Questions:
-1. What state/city (location) has the most ufo sightings?
-2. What is the typical shape of a UFO?
+2. List of different states in region; group sightings together (maybe look at differ types of ufo shapes).
