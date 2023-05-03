@@ -6,5 +6,5 @@ Chris' Questions:
 - Above and Beyond: further showcased these correlations using classification with sklearn. I used a few classifiers to discover whether there is any relationship between the location of the sight, the shape of the UFO, the season it occured with the time of day of the report (morning, afternoon, evening, night). 
 
 Colby's Questions:
-1. Something involving latitutde and longitude i think?
+1. Patterns in sightings based on state
 2. List of different states in region; group sightings together (maybe look at differ types of ufo shapes).
