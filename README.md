@@ -8,3 +8,7 @@ Chris' Questions:
 Colby's Questions:
 1. Patterns in sightings based on state
 2. List of different states in region; group sightings together (maybe look at differ types of ufo shapes).
+
+### Colby's work: ufo_colby_1, ufo_colby_2
+### Chris' work:  ufo_chris_1, ufo_classification
+### We had a joint effort on ufo_webscrape since there was a lot of data (over 130,000 records).
